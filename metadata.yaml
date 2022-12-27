@@ -1,0 +1,27 @@
+_repo: They-wouldn-t-dare_69505
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mines, Samuel
+    birthdate: 1909
+    deathdate: 1998
+    gutenberg_agent_id: '54777'
+    url: http://www.gutenberg.org/2009/agents/54777
+description: ''
+gutenberg_issued: '2022-12-09'
+identifiers:
+  gutenberg: '69505'
+language: en
+pgterms:marc905: 20220514094359mines
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1947.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: They wouldn't dare
+url: http://www.gutenberg.org/ebooks/69505
